@@ -1,0 +1,9 @@
+{
+    "services":
+    [
+        [ "./test/service1", "test1" ],
+        [ "./test/service2", "test2" ],
+        [ "./test/service3", "test3" ],
+        [ "./test/service4", "test4" ]
+    ]
+}

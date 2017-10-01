@@ -1,0 +1,11 @@
+{
+  "name": "clusterify",
+  "version": "1.0.0",
+  "description": "boost your node app with native cluster capabilities!",
+  "main": "clusterify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ymz",
+  "license": "MIT"
+}
