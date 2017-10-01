@@ -4,7 +4,7 @@
   "description": "boost your node app with native cluster capabilities!",
   "main": "clusterify.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/go"
   },
   "author": "ymz",
   "license": "MIT",
