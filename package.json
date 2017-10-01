@@ -1,5 +1,5 @@
 {
-  "name": "clusterify",
+  "name": "node-clusterify",
   "version": "1.0.0",
   "description": "boost your node app with native cluster capabilities!",
   "main": "clusterify.js",
